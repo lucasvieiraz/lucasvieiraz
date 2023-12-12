@@ -1,16 +1,22 @@
-### Hi there 👋
+# Lucas Vieira
 
-<!--
-**lucasvieiraz/lucasvieiraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Olá! Eu sou Lucas Vieira, um estudante de Graduação em Gestão da Tecnologia da Informação e um profissional Técnico em Desenvolvimento de Sistemas. Tenho paixão por explorar e criar soluções inovadoras na área de Tecnologia da Informação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+- Desenvolvimento Front-end: HTML, CSS, JavaScript
+- Desenvolvimento Back-end: Python, SQL
+
+## Projetos
+
+- [Layout Responsivo - Ecommerce Amazon]: https://github.com/lucasvieiraz/Layout_responsivo_Amazon
+- 
+## Contato
+
+- LinkedIn: [Lucas Vieira](https://www.linkedin.com/in/lucasvieiraz/)
+- GitHub: [lucasvieiraz](https://github.com/lucasvieiraz)
+- Email: [lucasvieiranrz@gmail.com]
+
+Sinta-se à vontade para explorar meus repositórios e projetos. Estou sempre aberto a novas oportunidades e colaborações interessantes!
