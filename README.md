@@ -17,6 +17,10 @@ Olá! Eu sou Lucas Vieira, um estudante de Graduação em Gestão da Tecnologia 
  <a target="_blank" href="mailto:lucasvieiranrz@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
  </a>
+ 
+<br>
+<br>
+<br>
 
 <!-- Animação -->
 <p align="center">
