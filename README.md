@@ -9,14 +9,8 @@ Olá! Eu sou Lucas Vieira, um estudante de Graduação em Gestão da Tecnologia 
 - Desenvolvimento Front-end: HTML, CSS, JavaScript
 - Desenvolvimento Back-end: Python, SQL
 
-## Projetos
-
-- [Layout Responsivo - Ecommerce Amazon]: https://github.com/lucasvieiraz/Layout_responsivo_Amazon
-- 
 ## Contato
 
 - LinkedIn: [Lucas Vieira](https://www.linkedin.com/in/lucasvieiraz/)
 - GitHub: [lucasvieiraz](https://github.com/lucasvieiraz)
 - Email: [lucasvieiranrz@gmail.com]
-
-Sinta-se à vontade para explorar meus repositórios e projetos. Estou sempre aberto a novas oportunidades e colaborações interessantes!
