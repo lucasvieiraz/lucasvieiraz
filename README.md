@@ -1,7 +1,7 @@
 
 ## Sobre Mim
 
-Olá! Eu sou Lucas Vieira, um estudante de Graduação em Gestão da Tecnologia da Informação e um profissional Técnico em Desenvolvimento de Sistemas. Tenho paixão por explorar e criar soluções inovadoras na área de Tecnologia da Informação.
+Olá! Eu sou Lucas Vieira, um estudante de Graduação em Gestão da Tecnologia da Informação e um profissional Técnico em Desenvolvimento de Sistemas.
 
 ## 🚀 Habilidades
 
@@ -10,9 +10,13 @@ Olá! Eu sou Lucas Vieira, um estudante de Graduação em Gestão da Tecnologia 
 
 ## 📫 Contato
 
-- **LinkedIn:** [Lucas Vieira](https://www.linkedin.com/in/lucasvieiraz/)
-- **GitHub:** [lucasvieiraz](https://github.com/lucasvieiraz)
-- **Email:** [lucasvieiranrz@gmail.com]
+<a target="_blank" href= "https://www.linkedin.com/in/lucasvieiraz/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ </a>
+ 
+ <a target="_blank" href="mailto:lucasvieiranrz@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+ </a>
 
 <!-- Animação -->
 <p align="center">
