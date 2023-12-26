@@ -1,7 +1,8 @@
 
+
 ## Sobre Mim
 
-Olá! Eu sou Lucas Vieira, um estudante de Graduação em Gestão da Tecnologia da Informação e um profissional Técnico em Desenvolvimento de Sistemas.
+Olá! Sou Lucas Vieira, um estudante de Graduação em Gestão da Tecnologia da Informação e um profissional Técnico em Desenvolvimento de Sistemas.
 
 ## 🚀 Habilidades
 
@@ -10,19 +11,28 @@ Olá! Eu sou Lucas Vieira, um estudante de Graduação em Gestão da Tecnologia 
 
 ## 📫 Contato
 
-<a target="_blank" href= "https://www.linkedin.com/in/lucasvieiraz/">
+<a target="_blank" href="https://www.linkedin.com/in/lucasvieiraz/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
- </a>
+</a>
  
- <a target="_blank" href="mailto:lucasvieiranrz@gmail.com">
+<a target="_blank" href="mailto:lucasvieiranrz@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
- </a>
+</a>
  
 <br>
 <br>
 <br>
 
+## 📊 Estatísticas e Desempenho
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=lucasvieiraz&show_icons=true&theme=radical)
+
+## Linguagens Usadas
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvieiraz&layout=compact&theme=radical)
+
 <!-- Animação -->
 <p align="center">
   <img src="https://lh3.googleusercontent.com/-YhXMe_R32XU/VeuVp03ro0I/AAAAAAAA_3Q/_r_sQvbxH60/programmer_thumb%25255B1%25255D.gif?imgmax=800" alt="Animação" width="400">
 </p>
+
