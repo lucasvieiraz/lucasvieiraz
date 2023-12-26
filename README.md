@@ -1,17 +1,11 @@
+## Sobre Mim
 
+Olá! Eu sou Lucas Vieira, um estudante de Graduação em Gestão da Tecnologia da Informação e um profissional Técnico em Desenvolvimento de Sistemas.
 
-## 💼 Sobre Mim
+## 🚀 Habilidades
 
-Estudante de Graduação em Gestão da Tecnologia da Informação e Técnico em Desenvolvimento de Sistemas.
-
-## Habilidades
-
-- **Front-end:** HTML, CSS, JavaScript
-- **Back-end:** Python, SQL
-
-## Linguagens Usadas
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvieiraz&layout=compact&theme=radical)
+- **Desenvolvimento Front-end:** HTML, CSS, JavaScript
+- **Desenvolvimento Back-end:** Python, SQL
 
 ## 📫 Contato
 
@@ -23,3 +17,11 @@ Estudante de Graduação em Gestão da Tecnologia da Informação e Técnico em 
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
  </a>
  
+<br>
+<br>
+<br>
+
+<!-- Animação -->
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/-YhXMe_R32XU/VeuVp03ro0I/AAAAAAAA_3Q/_r_sQvbxH60/programmer_thumb%25255B1%25255D.gif?imgmax=800" alt="Animação" width="400">
+</p>
