@@ -1,27 +1,9 @@
-## Sobre Mim
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvieirazx&langs_count=8)
 
-Olá! Eu sou Lucas Vieira, um estudante de Graduação em Gestão da Tecnologia da Informação e um profissional Técnico em Desenvolvimento de Sistemas.
-
-## 🚀 Habilidades
-
-- **Desenvolvimento Front-end:** HTML, CSS, JavaScript
-- **Desenvolvimento Back-end:** Python, SQL
-
-## 📫 Contato
-
-<a target="_blank" href= "https://www.linkedin.com/in/lucasvieiraz/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
- </a>
- 
- <a target="_blank" href="mailto:lucasvieiranrz@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
- </a>
- 
-<br>
-<br>
-<br>
-
-<!-- Animação -->
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/-YhXMe_R32XU/VeuVp03ro0I/AAAAAAAA_3Q/_r_sQvbxH60/programmer_thumb%25255B1%25255D.gif?imgmax=800" alt="Animação" width="400">
-</p>
+<h1>💻 Tech Stack</h1>
+<div style="display: inline_block">
+  <img align="center" alt="Lucas-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Lucas-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Lucas-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Lucas-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div><br>
