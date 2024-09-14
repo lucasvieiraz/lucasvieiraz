@@ -6,7 +6,7 @@
 ### 🚀 Minhas Tecnologias
 
 #### Linguagens de Programação
-!https://skillicons.dev/icons?i=python
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
@@ -28,8 +28,4 @@
 
 ### 🌱 Atualmente Estou Aprendendo
 Atualmente estou aprofundando meus conhecimentos em **Angular** e **API integration**, desenvolvendo projetos que integram back-end e front-end de forma otimizada.
-
-### 📫 Como me encontrar:
-- **GitHub**: [github.com/lucasvieiraz](https://github.com/lucasvieiraz)
-- **LinkedIn**: [linkedin.com/in/lucasvieiraz](#)
 
