@@ -6,7 +6,7 @@
 ### 🚀 Minhas Tecnologias
 
 #### Linguagens de Programação
-https://skillicons.dev/icons?i=python
+!https://skillicons.dev/icons?i=python
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
