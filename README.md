@@ -10,16 +10,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasvieiraz&show_icons=true&theme=dark&count_private=true" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lucasvieiraz&color=blue)
 
-
-#### Projetos em Destaque:
-- [**Controle Fiscal de Projetos com react**](https://github.com/lucasvieiraz/ControleFiscalDeProjetos_react)
-- [**App de livros com Ionic**](https://github.com/lucasvieiraz/app_ionic)
-- [**Bloco de notas com Kotlin**](https://github.com/lucasvieiraz/blocoDEnotas_kotlin)
-
-
-<h2 align="left">I code with</h2>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
