@@ -1,11 +1,7 @@
-
-
-![Overview](https://github.com/lucasvieiraz/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![Languages](https://github.com/lucasvieiraz/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only)
-
-![Profile Views](https://komarev.com/ghpvc/?username=lucasvieiraz)
-
-
+<div align="center">
+<img alt="Gustavo GitHub stats" src="https://github-readme-stats.vercel.app/api?username=snowdutra&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowdutra&layout=compact&&langs_count=8"/>
+</div>
 
 
 
