@@ -1,9 +1,22 @@
 
-## 👋 Olá! Eu sou o Lucas Vieira
 
-**Desenvolvedor Full Stack** apaixonado por tecnologia e sempre buscando aprender mais. Gosto de trabalhar tanto no front-end quanto no back-end, desenvolvendo soluções eficientes e de alto desempenho.
+<a href="https://github.com/connor9994/GitHub-Language-Stats">
+<img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 
-### 🚀 Minhas Tecnologias
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### Linguagens de Programação
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
