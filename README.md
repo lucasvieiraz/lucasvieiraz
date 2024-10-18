@@ -13,6 +13,25 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=lucasvieiraz&color=blue)
 
 
+
+### Contribuições e Estatísticas dos Projetos
+
+<a href="https://github.com/lucasvieiraz">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasvieiraz&theme=dark" />
+</a>
+
+<a href="https://github.com/lucasvieiraz">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasvieiraz&theme=dark" />
+</a>
+
+#### Projetos em Destaque:
+- [**Moments Angular**](https://github.com/lucasvieiraz/moments_angular)
+- [**Bibliofilos**](https://github.com/lucasvieiraz/Bibliofilos)
+- [**DevFolio**](https://github.com/lucasvieiraz/devfolio)
+
+
+
+
 #### Linguagens de Programação
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
