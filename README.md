@@ -44,7 +44,6 @@
   <img width="12" /> 
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="angular logo"  />   
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="angular logo"  />
-  <img src="https://skillicons.dev/icons?i=reactnative" height="40" alt="angular logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" /> 
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
@@ -55,12 +54,10 @@
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="angular logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />   
-  <img src="https://skillicons.dev/icons?i=sql" height="40" alt="angular logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ionic" height="40" alt="angular logo"  />
    
   
   
