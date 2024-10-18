@@ -1,9 +1,8 @@
-<div align="center">
-<img alt="Gustavo GitHub stats" src="https://github-readme-stats.vercel.app/api?username=snowdutra&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowdutra&layout=compact&&langs_count=8"/>
-</div>
+### Estatísticas do GitHub
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvieiraz&layout=compact&theme=dark)
 
+![Visitas no perfil](https://komarev.com/ghpvc/?username=lucasvieiraz&color=blue)
 
 
 
