@@ -1,14 +1,9 @@
 
 
-<a href="https://github.com/lucasvieiraz/GitHub-Language-Stats">
-<img src="https://github.com/lucasvieiraz/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/lucasvieiraz/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+![Overview](https://github.com/lucasvieiraz/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![Languages](https://github.com/lucasvieiraz/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=lucasvieiraz)
-
-
-
-
 
 
 
