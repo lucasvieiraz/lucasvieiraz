@@ -1,10 +1,10 @@
-### Estatísticas do GitHub
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvieiraz&layout=compact&theme=dark)
 
-![Visitas no perfil](https://komarev.com/ghpvc/?username=lucasvieiraz&color=blue)
 
-
+<a href="https://github.com/lucasvieiraz">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasvieiraz&theme=dark" />
+</a>
 
 <a href="https://github.com/lucasvieiraz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasvieiraz&show_icons=true&theme=dark&count_private=true" />
@@ -13,21 +13,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=lucasvieiraz&color=blue)
 
 
-
-### Contribuições e Estatísticas dos Projetos
-
-<a href="https://github.com/lucasvieiraz">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasvieiraz&theme=dark" />
-</a>
-
-<a href="https://github.com/lucasvieiraz">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasvieiraz&theme=dark" />
-</a>
-
 #### Projetos em Destaque:
-- [**Moments Angular**](https://github.com/lucasvieiraz/moments_angular)
-- [**Bibliofilos**](https://github.com/lucasvieiraz/Bibliofilos)
-- [**DevFolio**](https://github.com/lucasvieiraz/devfolio)
+- [**Controle Fiscal de Projetos com react**](https://github.com/lucasvieiraz/ControleFiscalDeProjetos_react)
+- [**App de livros com Ionic**](https://github.com/lucasvieiraz/app_ionic)
+- [**Bloco de notas com Kotlin**](https://github.com/lucasvieiraz/blocoDEnotas_kotlin)
 
 
 <h2 align="left">I code with</h2>
@@ -59,8 +48,4 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
    
-  
-  
-
-
 </div>
