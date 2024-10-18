@@ -1,8 +1,8 @@
 
 
-<a href="https://github.com/connor9994/GitHub-Language-Stats">
-<img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<a href="https://github.com/lucasvieiraz/GitHub-Language-Stats">
+<img src="https://github.com/lucasvieiraz/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/lucasvieiraz/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
 
