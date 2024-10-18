@@ -6,7 +6,11 @@
 
 
 
+<a href="https://github.com/lucasvieiraz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasvieiraz&show_icons=true&theme=dark&count_private=true" />
+</a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=lucasvieiraz&color=blue)
 
 
 #### Linguagens de Programação
