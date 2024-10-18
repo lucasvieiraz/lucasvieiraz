@@ -59,6 +59,11 @@
     <img src="https://skillicons.dev/icons?i=react" height="40" alt="angular logo"  />
     <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="angular logo"  />
     <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="android logo"  />
+    <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="angular logo"  />
+    <img src="https://skillicons.dev/icons?i=reactnative" height="40" alt="angular logo"  />
+    <img src="https://skillicons.dev/icons?i=ionic" height="40" alt="angular logo"  />
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="angular logo"  />
+    <img src="https://skillicons.dev/icons?i=sql" height="40" alt="angular logo"  />
 </div>
 
 #### Linguagens de Programação
