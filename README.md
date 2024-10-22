@@ -6,10 +6,6 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasvieiraz&theme=dark" />
 </a>
 
-<a href="https://github.com/lucasvieiraz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasvieiraz&show_icons=true&theme=dark&count_private=true" />
-</a>
-
 
 <h2 align="left">Tecnologias</h2>
 
