@@ -6,7 +6,6 @@
 </div>
 
 
-<h2 align="left">Tecnologias</h2>
 
 ###
 
@@ -33,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="postman logo"  />
   <img width="12" />
    
 </div>
