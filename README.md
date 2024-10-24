@@ -1,10 +1,9 @@
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvieiraz&layout=compact&theme=dark)
-
-
-<a href="https://github.com/lucasvieiraz">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasvieiraz&theme=dark" />
-</a>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvieiraz&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <a href="https://github.com/lucasvieiraz">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasvieiraz&theme=dark" alt="Repos por linguagem" />
+  </a>
+</div>
 
 
 <h2 align="left">Tecnologias</h2>
